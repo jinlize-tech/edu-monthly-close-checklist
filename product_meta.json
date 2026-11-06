@@ -1,0 +1,24 @@
+{
+  "number": 84,
+  "product_id": "JLZ-EDU-SK-068",
+  "chinese_name": "月度结账清单",
+  "english_name": "Monthly Close Checklist",
+  "repository_name": "edu-monthly-close-checklist",
+  "product_type": "Skill",
+  "category": "07 财务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-monthly-close-checklist-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "月度交易、应收应付、退款、库存/教材、银行对账和未结事项",
+  "main_output": "结账清单、责任分工、完成状态、差异项、截止时间和复核记录",
+  "package_entries": [
+    "edu-monthly-close-checklist/SKILL.md",
+    "edu-monthly-close-checklist/references/DOMAIN_GUIDE.md",
+    "edu-monthly-close-checklist/references/EXAMPLES.md",
+    "edu-monthly-close-checklist/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
