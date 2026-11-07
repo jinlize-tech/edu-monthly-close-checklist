@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-068",
   "repository_name": "edu-monthly-close-checklist",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-monthly-close-checklist-v1.0.0.zip",
-  "sha256": "4CB8C65AB34A57938B075FA5CADC922E6D0222F21081561D34231941BD63E399",
-  "bytes": 4823,
+  "version": "1.0.1",
+  "package_path": "dist/edu-monthly-close-checklist-v1.0.1.zip",
+  "sha256": "2E59470560D5F260F65BFAB3810A3C328045518307B389A6D28C9365964DEC53",
+  "bytes": 14571,
   "entries": [
     "edu-monthly-close-checklist/SKILL.md",
     "edu-monthly-close-checklist/references/DOMAIN_GUIDE.md",
     "edu-monthly-close-checklist/references/EXAMPLES.md",
-    "edu-monthly-close-checklist/templates/OUTPUT_TEMPLATE.md"
+    "edu-monthly-close-checklist/templates/OUTPUT_TEMPLATE.md",
+    "edu-monthly-close-checklist/README.md",
+    "edu-monthly-close-checklist/USAGE.md",
+    "edu-monthly-close-checklist/LICENSE",
+    "edu-monthly-close-checklist/THIRD_PARTY_NOTICES.md",
+    "edu-monthly-close-checklist/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:45:49.7370279+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-monthly-close-checklist-v1.0.0.zip",
+  "previous_package_sha256": "4CB8C65AB34A57938B075FA5CADC922E6D0222F21081561D34231941BD63E399",
+  "built_at": "2026-11-07T09:19:23.6860797+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }

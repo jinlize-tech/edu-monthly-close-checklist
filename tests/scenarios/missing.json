@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "月度交易": "已提供并确认：月度交易"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}

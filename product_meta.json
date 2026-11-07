@@ -6,19 +6,38 @@
   "repository_name": "edu-monthly-close-checklist",
   "product_type": "Skill",
   "category": "07 财务运营中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-monthly-close-checklist-v1.0.0.zip",
+  "baseline_commit": "65dc0c558ea437e12e807fe0448e6f088d6bee70",
+  "package_path": "dist/edu-monthly-close-checklist-v1.0.1.zip",
+  "previous_package_path": "dist/edu-monthly-close-checklist-v1.0.0.zip",
+  "previous_package_sha256": "4CB8C65AB34A57938B075FA5CADC922E6D0222F21081561D34231941BD63E399",
   "calculator": false,
   "core_input": "月度交易、应收应付、退款、库存/教材、银行对账和未结事项",
   "main_output": "结账清单、责任分工、完成状态、差异项、截止时间和复核记录",
+  "main_output_fields": [
+    "结账清单",
+    "责任分工",
+    "完成状态",
+    "差异项",
+    "截止时间和复核记录"
+  ],
   "package_entries": [
     "edu-monthly-close-checklist/SKILL.md",
     "edu-monthly-close-checklist/references/DOMAIN_GUIDE.md",
     "edu-monthly-close-checklist/references/EXAMPLES.md",
-    "edu-monthly-close-checklist/templates/OUTPUT_TEMPLATE.md"
+    "edu-monthly-close-checklist/templates/OUTPUT_TEMPLATE.md",
+    "edu-monthly-close-checklist/README.md",
+    "edu-monthly-close-checklist/USAGE.md",
+    "edu-monthly-close-checklist/LICENSE",
+    "edu-monthly-close-checklist/THIRD_PARTY_NOTICES.md",
+    "edu-monthly-close-checklist/scripts/validate_input.js"
   ]
 }
